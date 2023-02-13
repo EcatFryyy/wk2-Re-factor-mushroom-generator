@@ -1,3 +1,5 @@
+//Two creatures freaks out when the mouse is too far away from the creature
+
 let canvas;
 let button;
 let slider;
